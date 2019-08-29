@@ -1,0 +1,36 @@
+
+
+body {
+	background-color: rgb(12, 178, 196);
+}
+
+.wrap {
+	display: table;
+   	margin: 0 auto;
+}
+
+.color {
+	background-color: red;
+}
+
+.link {
+	background-color: #74888c;
+	width: 100px;
+	border-color: #9da4a6;
+}
+
+.link:hover {
+	background-color: #afb8ba;
+	color: white;
+}
+
+.selfie {
+	float: left;
+	margin-right: 10px;
+	margin-bottom: 5px;
+}
+
+ li {
+	display:inline;
+}
+
